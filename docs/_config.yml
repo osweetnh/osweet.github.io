@@ -44,11 +44,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 304 Main Street
+  - line: 3 Longview Drive
   - line: Hampstead, NH 03841
 
 # Credits content
-credits: 'This site was written by the legend Spencer Couture'
+credits: 'This site was written by the legend Spencer'
 
 # Build settings
 markdown: kramdown
