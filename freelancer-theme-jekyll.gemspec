@@ -18,7 +18,6 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
   spec.add_runtime_dependency "jekyll-sitemap", "~> 1.3"
   spec.add_runtime_dependency "jekyll-gist", "~> 1.5"
-  spec.add_runtime_dependency "jekyll-feed", "~> 0.12"
   spec.add_runtime_dependency "jekyll-data", "~> 1.1"
   spec.add_runtime_dependency "jemoji", "~> 0.11"
   spec.add_runtime_dependency "webrick", "~> 1.7.0"
