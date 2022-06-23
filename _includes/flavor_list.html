@@ -1,0 +1,18 @@
+
+    <section class="success" id="flavors">
+        <div class="container flavors-flex-grid">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Flavors</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="flavors-flex-row">
+                {% for flav in site.flavors %}
+                <dl class="row">
+                    <dt class="col-sm-12">{{ flav.name }}</dt>
+                </dl>
+                {% endfor %}
+            </div>
+        </div>
+    </section>

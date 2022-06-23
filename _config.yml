@@ -1,10 +1,10 @@
 # Site settings
 title: O'Sweet Bakeshop
-email: spence.couture@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "NH Bakeshop or something here"
-meta_author: LastName FirstName
+email: osweetnh@gmail.com
+description: "NH Bakeshop"
+keywords: "NH, bakeshop, bakery, Hampstead, Couture, osweet"
+skills: "NH Bakeshop"
+meta_author: Couture Kathleen
 
 # Google webmaster tools
 google_verify:
@@ -24,10 +24,9 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 297045 #80B3FF
-  primary-rgb: "128,179,255"
-  secondary: 2E933C #FD6E8A
-  secondary-dark: fa7921 #A2122F
+  primary: 9678b0
+  secondary: 4e3e5b
+  secondary-dark: 92b078
 
 # Footer settings
 footer:
@@ -60,3 +59,19 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+flavors:
+  - name: "The Classic"
+  - name: "The Nutty Classic"
+  - name: "The Chocolate Lovers Classic"
+  - name: "P.B.C.C."
+  - name: "Not Your Grammy's Oatmeal Raisin Cookie"
+  - name: "Celebration!"
+  - name: "Lime in de Coconut"
+  - name: "V.I.P."
+  - name: "Lemon Dot"
+  - name: "Strawberries n' Cream"
+  - name: "Apples and Spice and Everything Nice"
+  - name: "M.R.F.M. Brownie Bites"
+  - name: "Dad's Heritage Hermits"
+  - name: "Brownut Doughnie"
