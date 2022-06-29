@@ -4,7 +4,7 @@ email: osweetnh@gmail.com
 description: "NH Bakeshop"
 baseurl: osweetnh.com
 keywords: "NH, bakeshop, bakery, Hampstead, Couture, osweet"
-skills: "NH Bakeshop"
+skills: "Hampstead NH Bakeshop"
 meta_author: Couture Kathleen
 
 # Google webmaster tools
@@ -61,7 +61,7 @@ defaults:
     values:
       permalink: ""
 
-flavors:
+menu:
   - name: "The Classic"
   - name: "The Nutty Classic"
   - name: "The Chocolate Lovers Classic"
