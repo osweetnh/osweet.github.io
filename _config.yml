@@ -60,7 +60,7 @@ defaults:
     values:
       permalink: ""
 
-flavors:
+menu:
   - name: "The Classic"
   - name: "The Nutty Classic"
   - name: "The Chocolate Lovers Classic"
