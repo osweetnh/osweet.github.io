@@ -9,8 +9,9 @@
             </div>
             <div class="menu-flex-row">
                 {% for flav in site.menu %}
-                <dl class="row">
-                    <dt class="col-sm-12">{{ flav.name }}</dt>
+                <dl class="row flavor-row">
+                    <dt class="col-sm-4 flavor-name">{{ flav.name }}</dt>
+                    <dd class="col-sm-8 flavor-description">{{ flav.description }}</dd>
                 </dl>
                 {% endfor %}
             </div>

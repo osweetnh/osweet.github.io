@@ -487,3 +487,10 @@ footer .footer-below {
     font-size: 22px;
     text-align: center;
 }
+.flavor-name, .flavor-description{
+    text-align: left;
+}
+
+.flavor-row{
+    margin-bottom: 40px;
+}
